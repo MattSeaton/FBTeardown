@@ -1,0 +1,64 @@
+Design Teardown
+
+Home page (when logged out)
+
+Clearly aimed at new users, encouraging entry of data and Sign up. Secondary aim is login for existing users, who have logged out, but because of the nature of Facebook, most users remain logged in to benefit from updates and messaging services.
+
+Critical goal is to easily enter basic data to get signed up. secondary goal is log in for existing users.
+
+Visual Hierarchy definitely leads to goal. Clear title/instruction, clear form, and nice clear green CTA button.I must admit to mistakenly signing up many times when attempting to log in.
+
+Element relationships  definitely lead to sign up. Contrast is used well with the colours of the header, background and the action button. Consistent data entry points and even repetition of the action phrase "Sign Up", 3 time in short space. Alignment: Graphics on the left and all data entry on the right, all in alignment. Somehow feels less business like than if data entry was on LHside. Proximity: Used well, with all data entry points close together, but not cramped. Page still feels airy with plenty of White(or in this case, grey)space.
+
+Fonts used include: San Francisco for headers and links, System UI for all other text and Freight sans bold for the sign up button.
+
+They are broadly similar fonts, contemporary, all sans serif which adds to the modern, less formal feel. Easy reading and flows well.
+
+The spacing is good with plenty of whitespace, line height is ok on the small font disclaimer which makes that readable too.
+
+I think the only thing i could suggest to improve the flow of this page would be to remove some of the signing in details, i.e. the date of birth and gender questions, and deal with these on a later page. That would mean just signing up with name, emailx2 and password, just making things slightly easier, but really it wouldn't make much difference.
+
+
+News Feed page (after logging in)
+
+
+The main user here is an existing Facebook user, whose goal is to access their feed of posts and edit, add comment etc
+
+The visual hierarchy does lead to the news feed, but the use of images in posts is strong and tends to pull the user to those posts. Therefore posts are not necessarily accessed sequentially, but that is not a major concern. For example, today there was a large photo at the bottom of my feed which took my eye straight away, missing out the other text based posts above. The images on the RHside  are perhaps second in the hierarchy but as an experienced user i know this is the ad section and ignore them.
+
+Element relationships also lead to scrolling through feed. The contrast of the images against the light background at the beginning of each post act like bullet points, especially if you defocus. Repetition of style and shape of posts make it easy to quickly understand and use. The Alignment of the post feed draws your eye down the page as it is the only element which goes top to bottom on the page. The margins clearly delineate the page. Proximity is used well with the post and comments.
+
+Fonts used include: San Francisco bold for headers and links, System UI for all other text. The font choices make it easy to read with links (headers) all popping out slightly.
+Size and weight are used subtly: text is sized 14px for new posts and 12px for comments and other info on the page. Line height increases for menus from 16 to 28px, making the menus better defined.
+
+I think the only thing that might improve flow and use would be to make the 'Create post' a floating widget instead of being fixed at the top of the feed scroll. As it is, I open the page with the intent to post something....my eye is drawn to the feed.... i start reading....then a while later i have to scroll all the way up to the top in order to create my post. Perhaps a Create new post button in the menu or nav would be easier still.
+
+Profile page
+
+The most likely user would be the profile owner, but also friends and visitors. The main goal would be to read the personal posts and pages in the feed. Secondary would be for a visitor to access the personal info. 
+
+The visual hierarchy is much like the news feed page in that it leads you to the posts in the feed, but the images kind of take over. The image at the top is more of a background image and seems to blend in, and actually moves out of sight as soon as you scroll.
+
+Once again element relationships also lead to scrolling through feed. The contrast of the images against the light background at the beginning of each post act like bullet points, especially if you defocus. Repetition of style and shape of posts make it easy to quickly understand and use. The Alignment of the post feed draws your eye down the page despite in being differently aligned to the news feed. This does help you differentiate between the two. The margins clearly delineate the page. Proximity is used well with the post and comments.
+
+Visual design, fonts etc are consistent with other FB feed page.
+
+About page
+
+The most likely user would be the profile owner, but also friends and visitors. The main goal would be to check personal info. Interestingly the visual hierarchy does not seem to meet this goal, but instead actually is pulling the user towards the friends list. It is worth noting that there is a separate tab for friends, so if that were the main goal then surely the user would have selected that. Some sections further down the page can be reordered but these ones above the fold cannot be altered, so it is definitely the sites aim to make the user see and click on other friends of this profile owner.
+
+The element relationships also lead more heavily to the friends section. The contrast of the images against the light background in the friend list is much more striking than the weakly contrasting text in the About section. Repetition is consistent with other pages. The Alignment of the friend photos in two columns also draws the eye here and down.
+
+On this page we see a difference in the way the fonts are used from other pages. San Francisco bold is used for headers and links in the Friends section (consistent with other pages). System UI regular is for all other text but also the headers in the About section. This deemphasises those headers and clickable links to other user info.
+
+From a purely functional view i would prefer to see the About section and the Friends section separately on their individual tabs, and not have the Friends section repeated here to draw me in.
+
+Photos page
+
+The most likely user would be the profile owner, but also friends and visitors. The main goal would be to look at photos of the profile owner in both cases. The visual hierarchy here is aimed at scrolling through the photo in a grid layout. 
+
+The element relationships also aim at this goal, the photos contrast the background but not each other, the repetition is consistent and therefore easy to use and the alignment is in a 4 column grid. Each photo is previewed in a square which makes a consistent and more pleasing page, rather than all sorts of different photo shapes and sizes.
+
+Visual design, fonts etc are consistent with other FB feed page. The 'Create album' and 'add photos' buttons here are slightly deemphasised. I think this is because this page is designed primarily for photo viewing, and the most common way now for adding photos is straight from a smartphone.
+
+

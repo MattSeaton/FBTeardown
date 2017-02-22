@@ -1,0 +1,38 @@
+UX Teardown
+
+Who is the main user of Facebook?
+The main user is someone wanting to read and comment on their friends posts and news, fake or otherwise!
+
+
+What are the top 3 critical goals for that user?
+Make new posts including text/images/video. Read recent posts, including text, images and video. Easily add comments & join discussions on the above.
+
+
+What is the site's approximate information architecture? (in general -- don't get caught up in the details too much) 
+
+Sign In/Up > 	Home page (Infinite Feed)
+			Add Post/Photo/Video
+			Comment on posts
+			Find Friends
+			Chat
+		
+		Personal Page
+			Timeline
+			About	
+			Photos
+			
+
+
+For your top user goal, what is likely to make the user's experience particularly satisfying? Clear layout with clear links/buttons and text writing areas will make posting and reading others posts very easy. Constant updating and infinite scroll make this much easier than visit separate pages.
+
+To accomplish this goal, how does the user flow through the site's architecture? (ie. which pages are visited and what are clicked?)The main goals are all achievable on the home page/news page, and are clearly self contained in separate widgets. much easier than visiting separate pages and uploads as in the past.
+
+
+What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)? There is a permanent nav bar across the top and also a content appropriate one down the left hand side.Therefore even if you get lost in events or games or something in the LH menu, you can always use the top menu to get Home or to personal page.
+
+
+What does Facebook do well to allow the user to accomplish the top goal effectively, 
+efficiently and with good satisfaction? FB now lets users achieve main goals very easily from one page, and with minimum effort. This has to be very satisfying and translates to mobile apps too.
+
+
+What does Facebook do poorly when allowing the user to accomplish the top goal effectively, efficiently and with good satisfaction? I suppose the only thing it does poorly is what it also does well, the constant feed to the home page. It is constant and persistent, and sometimes posts of interest get lost in amongst the adverts or other stuff. I guess the answer is to really tailor your own feed properly if it is something that annoys you.
